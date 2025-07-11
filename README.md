@@ -1,8 +1,7 @@
 # Validações em APIs - Mentoria 2.0 - Julio de Lima
 Objetivo
 
-Este projeto realiza testes automatizados na API REST do banco-api, validando suas funcionalidades e contribuindo a qualidade de suas operações.
-Stack utilizada
+
 
     Linguagem: JavaScript (Node.js)
     Framework de testes: Mocha
